@@ -1,17 +1,27 @@
 [
   {
-    "autor": "Phill Miller",
+    "author": "Phil Miller",
     "avatar": "avatars/phil.png",
-    "title": "Hombre vivo en Tucson",
+    "title": "Mudanza a Tampa",
     "content": {
-      "text": "Espero que alguien lo vea",
-      "att": "images/tucson.jpg",
-      "location": "Tucson"
+      "text": "Nadie más va a venir a fastidiarme mi Tucson!!!!",
+      "att": "images/tampa.jpg",
+      "location": "Nowhere"
     },
-    "date": "10/02/2017"
+    "date": "28/06/2017"
   },
   {
-    "autor": "Phill Miller",
+    "author": "Phil Miller",
+    "avatar": "avatars/phil.png",
+    "title": "Maldito Todd",
+    "content": {
+      "text": "Maldito Todd",
+      "location": "Tucson"
+    },
+    "date": "15/06/2017"
+  },
+  {
+    "author": "Phil Miller",
     "avatar": "avatars/phil.png",
     "title": "Gary",
     "content": {
@@ -22,24 +32,14 @@
     "date": "15/05/2017"
   },
   {
-    "autor": "Phill Miller",
+    "author": "Phil Miller",
     "avatar": "avatars/phil.png",
-    "title": "Maldito Todd",
+    "title": "Hombre vivo en Tucson",
     "content": {
-      "text": "Maldito Todd",
+      "text": "Espero que alguien lo vea",
+      "att": "images/tucson.jpg",
       "location": "Tucson"
     },
-    "date": "07/06/2017"
-  },
-  {
-    "autor": "Phill Miller",
-    "avatar": "avatars/phil.png",
-    "title": "Mudanza a Tampa",
-    "content": {
-      "text": "Nadie más va a venir a fastidiarme mi Tucson!!!!",
-      "att": "images/tampa.jpg",
-      "location": "Nowhere"
-    },
-    "date": "28/06/2017"
+    "date": "10/02/2017"
   }
 ]

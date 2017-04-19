@@ -32,29 +32,29 @@ button.accordion {
 }
 
 button.accordion.active, button.accordion:hover {
-    background-color: #ddd;
+  background-color: #ddd;
 }
 
 button.accordion:after {
-    content: '\002B'; /* Unicode character for "plus" sign (+) */
-    color: #777;
-    font-weight: bold;
-    float: right;
-    margin-left: 5px;
+  content: '\002B';
+  color: #777;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
 }
 
 button.accordion.active:after {
-    content: "\2212"; /* Unicode character for "minus" sign (-) */
+  content: "\2212";
 }
 
 div.panel {
-    padding: 0 18px;
-    border-radius: 4px;
-    border: 2px solid grey;
-    background-color: white;
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.2s ease-out;
+  padding: 0 18px;
+  border-radius: 4px;
+  border: 2px solid grey;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
 }
 
 div.panel h5 {
@@ -62,14 +62,19 @@ div.panel h5 {
 }
 
 .accordion img {
-    width: 100%;
-    height: auto;
-    max-width: 150px;
-    float: left;
-    border-radius: 50%;
+  width: 100%;
+  height: auto;
+  max-width: 150px;
+  float: left;
+  border-radius: 50%;
 }
 
 div.panel img {
-    width: 100%;
-    height: auto;
+  width: 100%;
+  height: auto;
+}
+
+.btn {
+  margin-bottom: 10px;
+  width: 100%;
 }
